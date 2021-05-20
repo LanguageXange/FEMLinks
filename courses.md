@@ -3,6 +3,21 @@ https://frontendmasters.com/guides/learning-roadmap/
 
 
 -------------
+## VIM Fundamentals
+https://theprimeagen.github.io/vim-fundamentals/
+
+## Intro to Gatsby
+https://github.com/frontendmasters/gatsby-intro
+https://jlengstorf.github.io/presentations/workshop-gatsby-mdx-blog/#/
+https://www.gatsbyjs.com/plugins/gatsby-transformer-sqip/
+https://using-gatsby-image.gatsbyjs.org/
+
+## JS Accessibility
+https://marcysutton.github.io/js-a11y-workshop/slides/
+https://github.com/marcysutton/js-a11y-workshop
+
+## Gatsby Intermediate
+https://github.com/jlengstorf/gatsby-intermediate
 
 ## VSCode Can Do That? 
 https://burkeholland.gitbook.io/vs-code-can-do-that/exercise-1-1/switch-fonts
