@@ -184,6 +184,9 @@ linked list solution: https://replit.com/@bgando/linked-list-solution
 ## Practical Guide to Algo in JS 
 https://slides.com/bgando/intro-to-algorithms/
 
+## Trees and Graphs
+http://slides.com/bgando/intro-graph-trees
+
 ## 4 Semester of CS PART TWO
 https://btholt.github.io/four-semesters-of-cs-part-two/
 
