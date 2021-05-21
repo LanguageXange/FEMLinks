@@ -3,6 +3,24 @@ https://frontendmasters.com/guides/learning-roadmap/
 
 
 -------------
+
+## Production-Grade TypeScript
+https://github.com/mike-north/professional-ts/
+https://static.frontendmasters.com/resources/2020-10-13-production-typescript/production-typescript.pdf
+
+## State Machines in JavaScript with XState
+https://github.com/davidkpiano/frontend-masters-xstate-workshop
+https://static.frontendmasters.com/resources/2020-05-14-state-machines-xstate/state-machine-xstate.pdf
+https://frontendmasters.com/courses/xstate/
+
+
+## Design system with React and Storybook
+https://fem-design-systems.netlify.app/
+https://github.com/emmabostian/fem-design-systems
+
+https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf
+
+
 ## VIM Fundamentals
 https://theprimeagen.github.io/vim-fundamentals/
 
@@ -106,7 +124,7 @@ https://young.github.io/intro-to-web-assembly/
 
 ## Async Programming in JS 
 https://docs.google.com/document/d/1lsLD_d2m6_FpKkWSRoWPeWELWupxbfsvLQBDLezf4eU/edit#heading=h.ssqyafb5f14n
-
+http://reactivex.io/learnrx/
 
 
 
