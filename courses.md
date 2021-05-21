@@ -3,6 +3,13 @@ https://frontendmasters.com/guides/learning-roadmap/
 
 
 -------------
+## Rust
+https://rtfeldman-rust-workshop.netlify.app/
+https://github.com/rtfeldman/rust-1.51-workshop
+
+## Enterprise Pattern
+https://github.com/onehungrymind/fem-enterprise-patterns
+
 
 ## Production-Grade TypeScript
 https://github.com/mike-north/professional-ts/
