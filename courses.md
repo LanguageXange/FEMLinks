@@ -3,6 +3,25 @@ https://frontendmasters.com/guides/learning-roadmap/
 
 
 -------------
+## State machine
+https://static.frontendmasters.com/resources/2020-05-14-state-machines-xstate/state-machine-xstate.pdf
+
+
+## Build custom data visualization
+https://slides.com/shirleywu/deck-10
+
+cool website: https://pudding.cool/2017/03/film-dialogue/
+
+## functional JS first step
+https://observablehq.com/collection/@anjana/functional-javascript-first-steps
+
+
+
+## Deno First Look
+https://burkeholland.github.io/deno-first-look/
+https://github.com/burkeholland/deno-exercises
+
+
 ## Rust
 https://rtfeldman-rust-workshop.netlify.app/
 https://github.com/rtfeldman/rust-1.51-workshop
